@@ -1,0 +1,22 @@
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  parse_ini_file(../../../config2.ini): failed to open stream: No such file or directory in /home/kritarth/public_html/mesoforte/libs/Db.php on line 6
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kritarth'@'localhost' (using password: NO) in /home/kritarth/public_html/mesoforte/libs/Db.php on line 7
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kritarth/public_html/mesoforte/models/Categories.php on line 8
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kritarth/public_html/mesoforte/models/Categories.php on line 10
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kritarth/public_html/mesoforte/views/mainnav.php on line 3
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  parse_ini_file(../../../config2.ini): failed to open stream: No such file or directory in /home/kritarth/public_html/mesoforte/libs/Db.php on line 6
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kritarth'@'localhost' (using password: NO) in /home/kritarth/public_html/mesoforte/libs/Db.php on line 7
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kritarth/public_html/mesoforte/models/Events.php on line 23
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/kritarth/public_html/mesoforte/models/Events.php on line 25
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kritarth/public_html/mesoforte/views/all-events.php on line 4
+[04-Jun-2019 22:58:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kritarth/public_html/mesoforte/views/footer.php on line 6
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  parse_ini_file(../../config2.ini): failed to open stream: No such file or directory in /home/kritarth/public_html/mesoforte/libs/Db.php on line 6
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kritarth'@'localhost' (using password: NO) in /home/kritarth/public_html/mesoforte/libs/Db.php on line 7
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kritarth/public_html/mesoforte/models/Categories.php on line 8
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kritarth/public_html/mesoforte/models/Categories.php on line 10
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kritarth/public_html/mesoforte/views/mainnav.php on line 3
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  parse_ini_file(../../config2.ini): failed to open stream: No such file or directory in /home/kritarth/public_html/mesoforte/libs/Db.php on line 6
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kritarth'@'localhost' (using password: NO) in /home/kritarth/public_html/mesoforte/libs/Db.php on line 7
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kritarth/public_html/mesoforte/models/Events.php on line 23
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/kritarth/public_html/mesoforte/models/Events.php on line 25
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kritarth/public_html/mesoforte/views/all-events.php on line 4
+[04-Jun-2019 22:59:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kritarth/public_html/mesoforte/views/footer.php on line 6

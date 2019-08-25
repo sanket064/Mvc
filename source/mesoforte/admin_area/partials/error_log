@@ -1,0 +1,1 @@
+[11-Jun-2019 09:59:09 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanket064/public_html/mesoforte/source/mesoforte/admin_area/123_connect/config.php on line 18
